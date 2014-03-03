@@ -3,7 +3,6 @@
 		first line.
 		second line.
 		third line.
-		Bobby Fu
 		Conflict line.
 		new feature
 	</body>
